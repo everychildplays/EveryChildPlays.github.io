@@ -1,0 +1,19 @@
+body {
+    background-color: #2b5386;
+    color: #fff;
+}
+
+a, .btn, .btn-link, .card-title, .card-text, h2, h3, h5, p {
+    color: #fff !important;
+    font-weight: bold;
+}
+
+.card {
+    background-color: rgba(43, 83, 134, 0.9);
+    border: none;
+}
+
+footer {
+    background-color: #2b5386;
+    color: #fff;
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Team</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="Company Logo" class="logo">
+    </header>
+
+    <section class="mission">
+        <h2>Our Mission</h2>
+        <p>We strive to make a positive impact in our community through innovation and teamwork.</p>
+        <a href="#learn-more" class="link">Learn More</a>
+        <button class="btn">Join Us</button>
+    </section>
+
+    <section class="team-introduction">
+        <h2>Meet Our Team</h2>
+        <div class="team-grid">
+            <!-- Repeat this block for each team member -->
+            <div class="team-member">
+                <img src="member1.jpg" alt="Team Member 1">
+                <h3>Member Name</h3>
+                <p>Short blurb about the team member.</p>
+            </div>
+            <!-- Add more team members here -->
+        </div>
+    </section>
+
+    <section class="large-team-image">
+        <img src="large-team.jpg" alt="Our Team" class="team-photo">
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Company Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>
